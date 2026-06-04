@@ -1,7 +1,7 @@
 Hello Cloud & Git
 Learning Git Version Control
 
-# DevOps Fundamentals - Day 1 Learning Notes
+# DevOps Fundamentals 
 
 ## 1. Cloud Computing
 
